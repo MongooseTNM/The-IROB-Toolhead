@@ -10,4 +10,4 @@ Specs:
  - Custom Klicky "tap" solution
  - 6mm belts
 
-![image](https://github.com/MongooseTNM/The-IROB-Toolhead/assets/66395216/9db0024b-292f-4412-907a-e26762a62c72)
+![image](https://github.com/MongooseTNM/The-IROB-Toolhead/assets/66395216/1a6410c4-97db-4c00-be51-dee455ddb4f3)
