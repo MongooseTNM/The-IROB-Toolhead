@@ -17,6 +17,7 @@ Update V0.1:
  - New belt mount design, now compatible with Voron Trident and 2.4
 
 warning: I designed this toolhead for some random m3 heat set inserts I had so they are not the voron standard. The holes for the heat sets are 4.2mm as opposed to the 4.7mm standard size.
+warning2: There is a new version coming soon so if you want the latest and greatest wait about a week.
 
 ![image](https://github.com/MongooseTNM/The-IROB-Toolhead/assets/66395216/29d53c3f-12dc-41a6-b9be-b43a5633a1fb)
 
