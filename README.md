@@ -10,7 +10,7 @@ Specs:
  - Custom Klicky "tap" solution
  - 6mm belts
 
-Ducts by stackingdeezlayers
+### Ducts by stackingdeezlayers
 
 Update V0.1:
  - Added wiring channels and ziptie points
@@ -22,7 +22,7 @@ Update V1.0
  - Switched to voron spec heat set inserts
  - Added adxl345 mount
 
-RoadMap
+Roadmap
  - Add Sherpa Mini kface support
 
 
