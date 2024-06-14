@@ -27,6 +27,3 @@ Update V1.0
 Roadmap
  - Add Sherpa Mini kface support
  - Improve extruder/hotend mount rigidity
-
-
-FIXED IN V1.0     warning: I designed this toolhead for some random m3 heat set inserts I had so they are not the voron standard. The holes for the heat sets are 4.2mm as opposed to the 4.7mm standard size.
