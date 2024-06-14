@@ -10,6 +10,8 @@ Specs:
  - Custom Klicky "tap" solution
  - 6mm belts
 
+![IMG_9120](https://github.com/MongooseTNM/The-IROB-Toolhead/assets/66395216/1eed8942-751e-42ac-8a68-d856b110c532)
+
 ### Ducts by stackingdeezlayers
 
 Update V0.1:
@@ -27,5 +29,3 @@ Roadmap
 
 
 FIXED IN V1.0     warning: I designed this toolhead for some random m3 heat set inserts I had so they are not the voron standard. The holes for the heat sets are 4.2mm as opposed to the 4.7mm standard size.
-
-![IMG_9120](https://github.com/MongooseTNM/The-IROB-Toolhead/assets/66395216/1eed8942-751e-42ac-8a68-d856b110c532)
