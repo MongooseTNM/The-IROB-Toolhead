@@ -24,6 +24,10 @@ Update V1.0
  - Switched to voron spec heat set inserts
  - Added adxl345 mount
 
+Update V1.1
+ - Added Sherpa Mini kface support
+ - Improved extruder/hotend mount rigidity
+ - The only parts that need reprinting are the Hotend Mount and Extruder Spacer
+
 Roadmap
- - Add Sherpa Mini kface support
- - Improve extruder/hotend mount rigidity
+ - 
